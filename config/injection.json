@@ -1,0 +1,4 @@
+{
+    "company-service": "StubCompanyService",
+    "employee-service": "StubEmployeeService"
+}
